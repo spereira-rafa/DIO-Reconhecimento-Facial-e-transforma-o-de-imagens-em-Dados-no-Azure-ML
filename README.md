@@ -21,4 +21,8 @@ Teste 003
 ![image](https://github.com/user-attachments/assets/573af8b5-0595-4b3b-8ee8-73cd7a78efe2)
 
 
+Link apoio:
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
+
+
 
