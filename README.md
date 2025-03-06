@@ -27,6 +27,13 @@ Teste 003
 ![image](https://github.com/user-attachments/assets/573af8b5-0595-4b3b-8ee8-73cd7a78efe2)
 
 
+Teste 004 - Optical character recognition, and then the Extract text from images
+
+
+![Captura de tela 2025-03-06 175127](https://github.com/user-attachments/assets/c3bad9a5-8afe-4a63-b3f1-9a0b9c762634)
+
+
+
 Link apoio:
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
 
