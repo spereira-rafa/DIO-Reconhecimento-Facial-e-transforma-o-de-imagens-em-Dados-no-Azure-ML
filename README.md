@@ -12,12 +12,15 @@ Identificação e Autenticação – Compara rostos em uma base de dados para au
 Rastreamento e Contagem de Pessoas – Analisa movimentação e presença em ambientes monitorados.
 
 Teste 001 
+
 ![Captura de tela 2025-03-06 174009](https://github.com/user-attachments/assets/437761be-aa92-40a7-8bb6-205865a95476)
 
 Teste 002 
+
 ![image](https://github.com/user-attachments/assets/4cedfe60-964f-4e15-a64a-c4d6a22239c6)
 
 Teste 003
+
 ![image](https://github.com/user-attachments/assets/573af8b5-0595-4b3b-8ee8-73cd7a78efe2)
 
 
